@@ -1,0 +1,31 @@
+{
+  "name": "lab-karma-require-jasmine",
+  "version": "0.0.0",
+  "description": "A step-by-step lab for setting up a simple JavaScript centric web app using RequireJS, Karma and Jasmine",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephen-james/lab-karma-require-jasmine.git"
+  },
+  "keywords": [
+    "lab",
+    "jasmine",
+    "require",
+    "requirejs",
+    "karma"
+  ],
+  "author": "Stephen James",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephen-james/lab-karma-require-jasmine/issues"
+  },
+  "homepage": "https://github.com/stephen-james/lab-karma-require-jasmine"
+}
