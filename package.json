@@ -7,6 +7,7 @@
     "test": "test"
   },
   "dependencies": {
+    "jquery": "^2.1.1",
     "requirejs": "^2.1.12"
   },
   "devDependencies": {},
